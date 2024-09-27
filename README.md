@@ -6,6 +6,8 @@ Le but de ce code est de pouvoir obtenir rapidement la distribution de la concen
 
 Veillez à télécharger le dossier **HydroLAKES_polys_v10_shp**, **input.txt**, **Yuankang_lac.py**. et à placer ces trois données dans le même répertoire.
 
+lien HydroLAKES_polys_v10_shp: https://drive.google.com/drive/folders/1xqMLU05oQx6S863pabiXaID3B_FIN1nz?usp=drive_link
+
 ## Modifier le fichier input.txt
 
 Ouvrez le fichier input.txt
